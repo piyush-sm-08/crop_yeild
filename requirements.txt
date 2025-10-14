@@ -1,0 +1,5 @@
+# requirements.txt
+streamlit
+scikit-learn==1.7.2
+numpy==2.3.3
+pandas==2.3.3
