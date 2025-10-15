@@ -30,5 +30,11 @@ This project is a web application that predicts crop yield (in hectograms per he
     ```bash
     streamlit run app.py
     ```
+    
+# 🌾 Crop Yield Prediction App
 
-3.  Open your web browser and navigate to the local address provided (usually `https://cropyeild-t5vtrk7vu3dsdq7luzt6sb.streamlit.app/`).
+A Streamlit web app that predicts crop yield based on temperature, rainfall, and pesticide data.
+
+🔗 **Live App:** [Click here to open](https://cropyeild-t5vtrk7vu3dsdq7luzt6sb.streamlit.app/)
+
+📁 **Repository:** This repo contains the code used for the Streamlit deployment.
