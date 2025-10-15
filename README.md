@@ -31,4 +31,4 @@ This project is a web application that predicts crop yield (in hectograms per he
     streamlit run app.py
     ```
 
-3.  Open your web browser and navigate to the local address provided (usually `http://127.0.0.1:8501`).
+3.  Open your web browser and navigate to the local address provided (usually `https://cropyeild-t5vtrk7vu3dsdq7luzt6sb.streamlit.app/`).
