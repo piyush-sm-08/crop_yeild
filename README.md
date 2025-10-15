@@ -1,3 +1,10 @@
+# 🌾 Crop Yield Prediction App
+
+A Streamlit web app that predicts crop yield based on temperature, rainfall, and pesticide data.
+
+🔗 **Live App:** [Click here to open](https://cropyeild-t5vtrk7vu3dsdq7luzt6sb.streamlit.app/)
+
+
 # 🌾 Crop Yield Prediction Web App
 
 This project is a web application that predicts crop yield (in hectograms per hectare) based on several agricultural and environmental factors. The prediction is made using a Decision Tree Regressor model.
